@@ -30,6 +30,3 @@ function preserveDecimal (a){
   return a
 };
 
-function preserveDecimal ('nonsense!'){
-  return NaN
-};
