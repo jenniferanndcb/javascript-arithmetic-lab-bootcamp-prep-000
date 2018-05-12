@@ -26,3 +26,6 @@ function makeInt(a, 10){
   return a
 };
 
+function preserveDecimal (a){
+  return a
+};
